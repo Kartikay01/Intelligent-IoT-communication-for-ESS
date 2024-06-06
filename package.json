@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "amqplib": "^0.10.4",
+    "aws-sdk": "^2.1616.0"
+  }
+}
